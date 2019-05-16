@@ -6,4 +6,9 @@ BUG NOTICE: Github adds a div to the end of the projects when hosted on Github p
 Fix 1: You can click any card on a person, click the next button, the background should go black, hit exit on the modal view, then exit again on the modal view. Program should work fine now.
 
 Fix 2: On load delete the very last div with the style of "style="background-color: rgb(255, 143, 0);" etc. 
-Heres a pic for fix 2: ![Screenshot](bugfix2.png)
+
+
+Heres a pic for fix 2: 
+
+
+![Screenshot](bugfix2.png)
